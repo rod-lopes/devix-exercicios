@@ -1,0 +1,12 @@
+1 - C (Resposta: git status)
+2 - E (Resposta: git --version)
+3 - D (Resposta: git init)
+4 - C (Resposta: git clone)
+5 - A (Resposta: git log)
+6 - B (Resposta:  git add <nome-do-arquivo> && git commit -m 
+"_mensagem_")
+7 - A (Resposta: git push origin master)
+8 - A (Resposta: git branch)
+9 - C (Resposta: git fetch)
+10 - A (Resposta: git push)
+
